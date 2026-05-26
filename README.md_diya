@@ -1,0 +1,31 @@
+# Automation & QA Assignment
+
+## Task 1
+Performed manual QA testing on OpenCart Demo Store.
+
+Tested:
+- Product search
+- Cart functionality
+- Validation
+- Mobile responsiveness
+- Accessibility
+
+## Task 2
+Built an n8n workflow that:
+- Fetches trending GitHub repositories
+- Filters repositories
+- Sends Discord alerts
+- Handles API failures
+
+## Bonus Task
+Implemented uptime monitoring workflow for OpenCart using:
+- Schedule Trigger
+- HTTP Request
+- IF logic
+- Discord alerts
+
+## Tools Used
+- n8n
+- Discord Webhooks
+- Chrome DevTools
+- GitHub
